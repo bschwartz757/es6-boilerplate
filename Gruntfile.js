@@ -40,10 +40,10 @@ module.exports = function (grunt) {
         },
         serve: {
             /**
-             * Serving root directory at http://localhost:8080
+             * Serving root directory at http://localhost:8088
              */
             options: {
-                port: 8080
+                port: 8088
             }
         }
     });
